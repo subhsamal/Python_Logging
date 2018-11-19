@@ -1,0 +1,12 @@
+DEBUG:root:Addition of 40 and 20 is 60
+DEBUG:root:Subtaction of 40 and 20 is 20
+DEBUG:root:Division of 40 and 20 is 2
+DEBUG:root:Multiply of 40 and 20 is 800
+DEBUG:root:Addition of 50 and 25 is 75
+DEBUG:root:Subtaction of 50 and 25 is 25
+DEBUG:root:Division of 50 and 25 is 2
+DEBUG:root:Multiply of 50 and 25 is 1250
+2018-11-18 15:04:35,582:DEBUG:Addition of 50 and 25 is 75
+2018-11-18 15:04:35,582:DEBUG:Subtaction of 50 and 25 is 25
+2018-11-18 15:04:35,582:DEBUG:Division of 50 and 25 is 2
+2018-11-18 15:04:35,582:DEBUG:Multiply of 50 and 25 is 1250
